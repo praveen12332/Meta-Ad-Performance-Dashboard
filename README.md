@@ -108,7 +108,7 @@ This analysis provides a data-driven roadmap for improving ad ROI, audience rete
 ---
 
 ## 🖼️ Dashboard Preview
-![Dash board preview](Screenshot of Dashboard.png) 
+![Screenshot of Dashboard.png) 
 
 
 ---
